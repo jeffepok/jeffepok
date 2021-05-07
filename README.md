@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I am Jefferson • Full-Stack Developer • Student</h2>
-- 🔭 I’m currently working with Amalitech gGmbh
+<h4 align="center">🔭 I’m currently working with Amalitech gGmbh</h4>
+
+
 <p align="center">
   <a href="https://twitter.com/Tee4Jey">Twitter</a> • 
   <a href="https://web.facebook.com/addaipokut">Facebook</a> • 
