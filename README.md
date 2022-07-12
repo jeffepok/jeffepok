@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I am Jefferson • Full-Stack Developer • Student</h2>
-<h4 align="center">🔭 I’m currently working with <img src="https://images.squarespace-cdn.com/content/v1/58d10f5e3a041177cac79cc4/1537264897037-9CFUTHMNPG3FSZ5QZ29A/Overloop+1.6-39.png?format=1500w"></h4>
+<h4 align="center">🔭 I currently work at <img src="https://images.squarespace-cdn.com/content/v1/58d10f5e3a041177cac79cc4/1537264897037-9CFUTHMNPG3FSZ5QZ29A/Overloop+1.6-39.png?format=1500w"></h4>
 
 
 <p align="center">
